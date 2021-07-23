@@ -3,6 +3,7 @@ Created a new crypto currency and performed Tokenization
 
 # Project Diagram
 
+<img width="1653" alt="ERC20_Token_Sale" src="https://user-images.githubusercontent.com/10496268/126787301-577282fd-24d5-466b-92da-c73e9d6e5051.png">
 
 
 # Reference:
