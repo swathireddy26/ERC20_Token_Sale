@@ -25,5 +25,8 @@ https://ethereum-blockchain-developer.com/060-tokenization/00-overview/
 4. the Application will create some amount of tokens
 5. Owner can whitelist the addresse by supplying the address and clicking on add address to whielist, If the transaction goes through then the address is whitelisted.
 6. Only whitelisted addresses can buy tokens by clicking on buy tokens. When other addresses which are not whitelisted tries to buy tokens, Those transactions are rejected.
+7. We can either use Ganache or any Test network to deploy the application on blockchain. We use Infura to deploy the app on test networks.
+
+
 
 
