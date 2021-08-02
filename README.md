@@ -1,5 +1,8 @@
 # ERC20_Token_Sale
-Created a new crypto currency and performed Tokenization
+1. Created a ERC20 token with the help of Openzeppelin library. The number of tokens that gets created is constant. 
+2. The owner of the DApp can whitelist any user by just passing in the address. These whitelisted users can then buy any number of tokens by sending ether. 
+3. Non whitelisted users are not allowed to buy tokens.
+4. Deployed the application on ganache and Rinkeby test network.
 
 # Project Diagram
 
